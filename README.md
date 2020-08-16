@@ -7,3 +7,4 @@
 •	Implemented 4 extra filters and 2 shot themes (hexbin and scatter) to provide more customized visualization
 
 •	Developed an autocomplete player search bar providing a list of players in suggestion list
+
